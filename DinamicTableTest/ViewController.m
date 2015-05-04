@@ -92,6 +92,7 @@
     
     cell.textLabel.font = font;
     
+    NSLog("kncidci");
     
     return cell;
     
